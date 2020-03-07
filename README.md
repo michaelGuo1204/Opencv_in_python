@@ -11,3 +11,4 @@ This repositroy contains my learning progress in opencv with python
     7. 将边缘检测算法初步应用到视频处理上
 >>> * Output 
         `result.png`
+        ![image](https://github.com/michaelGuo1204/Opencv_in_python/blob/master/result.png)
